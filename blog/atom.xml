@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ax.dev//blog</id>
+    <title>Ax Blog</title>
+    <updated>2019-04-30T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://ax.dev//blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Ax news and events.</subtitle>
+    <logo>https://ax.dev//img/ax_lockup_white.svg</logo>
+    <entry>
+        <title type="html"><![CDATA[Beta of Ax now available]]></title>
+        <id>https://ax.dev//blog/2019/04/30/beta-release.html</id>
+        <link href="https://ax.dev//blog/2019/04/30/beta-release.html">
+        </link>
+        <updated>2019-04-30T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>We are releasing Ax - a system for managing adaptive experimentation and optimization.</p> ]]></summary>
+        <author>
+            <name>Kostya Kashin</name>
+            <uri>http://twitter.com/kostyakashin</uri>
+        </author>
+    </entry>
+</feed>

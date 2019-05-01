@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ax Blog</title>
+        <link>https://ax.dev//blog</link>
+        <description>The best place to stay up-to-date with the latest Ax news and events.</description>
+        <lastBuildDate>Tue, 30 Apr 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Ax Blog</title>
+            <url>https://ax.dev//img/ax_lockup_white.svg</url>
+            <link>https://ax.dev//blog</link>
+        </image>
+        <item>
+            <title><![CDATA[Beta of Ax now available]]></title>
+            <link>https://ax.dev//blog/2019/04/30/beta-release.html</link>
+            <guid>https://ax.dev//blog/2019/04/30/beta-release.html</guid>
+            <pubDate>Tue, 30 Apr 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>We are releasing Ax - a system for managing adaptive experimentation and optimization.</p> ]]></description>
+        </item>
+    </channel>
+</rss>
